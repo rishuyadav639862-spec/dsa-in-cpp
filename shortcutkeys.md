@@ -28,3 +28,27 @@
 - Ctrl + H = Find & Replace
 - Ctrl + G = Go to line number
 - F12 = Go to defination
+
+---
+
+## 4. multi cursor editing
+
+- Alt + click = Add multiple cursors
+- Ctrl + D = Select same word
+- Ctrl + Shift + L = Select all same word
+
+---
+
+## 5. terminal
+
+- Ctrl + ` = Open terminal
+- Ctrl + Shift + ` = New terminal
+- Ctrl + C = Stop running program
+
+---
+
+## 6.  explorer & search
+
+- Ctrl + B = Show/Hide sidebar
+- Ctrl + Shift + E = Explorer
+- Ctrl + Shift + F = Search in project
